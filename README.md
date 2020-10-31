@@ -1,13 +1,12 @@
 # CurrencyReporter
 Hangfire + .Net Console ile e-mail yollayan Currency Reporter
-
+<img src="https://i.ibb.co/YQrV6FY/Currency-Reporter.png"/>
 
 
 <img src="https://i.ibb.co/28p32RX/after.png"/>
-<img src="https://ibb.co/51m4S5F"/>
-<img src="https://ibb.co/Gn9byYL"/>
-<img src="https://ibb.co/wgv2TF3"/>
-<img src="https://ibb.co/c2YpKw4"/>
-<img src="https://ibb.co/vVd6G7D"/>
-<img src="https://ibb.co/0Yw8htb"/>
-<img src="https://ibb.co/fSwNtZt"/>
+<img src="https://i.ibb.co/MgrStR6/after-Detail.png"/>
+<img src="https://i.ibb.co/ZGSk54P/before.png"/>
+
+<img src="https://i.ibb.co/TPWnD19/daily.png"/> 
+<img src="https://i.ibb.co/L9Gbn57/retries.png"/>
+<img src="https://i.ibb.co/1nWXKBK/Retries-Detail.png"/>
