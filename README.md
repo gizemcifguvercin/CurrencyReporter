@@ -1,7 +1,12 @@
 # Currency Reporter
 <br/><br/><br/> 
 Hangfire + .Net Console ile günlük e-mail yollayan Currency Reporter
+
+<br/><br/><br/>API :
+https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/borsaIstanbul
 <br/><br/><br/>
+
+ 
 <img src="https://i.ibb.co/YQrV6FY/Currency-Reporter.png"/>
 
 <br/><br/><b> Hangfire Dashboard </b><br/><br/>
