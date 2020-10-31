@@ -1,6 +1,11 @@
-# CurrencyReporter
-Hangfire + .Net Console ile e-mail yollayan Currency Reporter
+# Currency Reporter
+<br/><br/><br/> 
+Hangfire + .Net Console ile günlük e-mail yollayan Currency Reporter
+<br/><br/><br/>
 <img src="https://i.ibb.co/YQrV6FY/Currency-Reporter.png"/>
+
+<br/><br/><b> Hangfire Dashboard </b><br/><br/>
+
 
 
 <img src="https://i.ibb.co/28p32RX/after.png"/>
