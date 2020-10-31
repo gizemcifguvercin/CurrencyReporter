@@ -3,7 +3,7 @@ Hangfire + .Net Console ile e-mail yollayan Currency Reporter
 
 
 
-<img src="https://ibb.co/CJSKd4x"/>
+<img src="https://i.ibb.co/28p32RX/after.png"/>
 <img src="https://ibb.co/51m4S5F"/>
 <img src="https://ibb.co/Gn9byYL"/>
 <img src="https://ibb.co/wgv2TF3"/>
