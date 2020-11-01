@@ -1,7 +1,7 @@
 # Currency Reporter
 <br/><br/><br/> 
 Hangfire + .Net Console ile günlük e-mail yollayan Currency Reporter
-
+(.Net Core Console App example added)
 <br/><br/><br/>API :
 https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api/borsaIstanbul
 <br/><br/><br/>
