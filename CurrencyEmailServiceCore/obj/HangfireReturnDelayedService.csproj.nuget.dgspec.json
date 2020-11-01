@@ -1,0 +1,95 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailServiceCore\\HangfireReturnDelayedService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailServiceCore\\HangfireReturnDelayedService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailServiceCore\\HangfireReturnDelayedService.csproj",
+        "projectName": "HangfireReturnDelayedService",
+        "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailServiceCore\\HangfireReturnDelayedService.csproj",
+        "packagesPath": "C:\\Users\\gcifguvercin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailServiceCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\CurrencyEmailService\\.nuget\\NuGet.Config",
+          "C:\\Users\\gcifguvercin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nexus.hepsiburada.com:8081/nexus/service/local/nuget/nuget/": {},
+          "http://nuget.hepsiburada.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\Hangfire.ConsoleApplication\\Hangfire.ConsoleApplication.csproj": {
+                "projectPath": "C:\\Users\\gcifguvercin\\Desktop\\CurrencyReporter-main\\Hangfire.ConsoleApplication\\Hangfire.ConsoleApplication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.7.17, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.7.17, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.7.17, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Microsoft.Owin.Hosting": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
